@@ -30,9 +30,9 @@ Flytectl was designed as a portable and lightweight command-line interface to wo
 
 ## 🚀 Quick Start
 
-1. Install Flytectl with bash or shell script.
+1. Install Flytectl with brew or via the installer shell script.
 
-    * Bash
+    * Brew
         ```bash
         $ brew install flyteorg/homebrew-tap/flytectl
         ```
